@@ -15,7 +15,7 @@ class Game {
     });
   }
 
-  async start(){
+  start(){
       player = new Player();
       player.getCount();
       form = new Form();
